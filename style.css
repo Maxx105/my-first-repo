@@ -1,0 +1,27 @@
+html {
+    background-color: #efeee7
+}
+h1 {
+    color: white;
+    text-align: Center;
+    background-color: #333;
+    margin: -10px;
+    margin-bottom: 20px;
+    padding: 20px 0;
+    font-size: 36px;
+}
+#left {
+    float: left;
+    width:33.3%;
+    width:200px;
+    height:200px;
+}
+div {
+    float: left;
+    width:33.3%;
+}
+}
+.right {
+    float: left;
+    width:33.3%;
+}
